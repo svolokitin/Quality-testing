@@ -1,16 +1,16 @@
-body{
+body {
 	background-image: url(biba_boba.webp);
 	background-size: 1000px 745px;
 	font-family: 'Courier New', Courier, monospace;
 }
 
-h1{
-	color: rgb(1, 11, 0);
+h1 {
+	font-family: "Sofia", sans-serif;
+    font-size: 35px;
 	text-align: center;
-	font-size: 25px;
 }
 
-p.first{
+p.first {
 	text-shadow: 3px 3px 3px rgb(188, 0, 217);
 	background-color: #e3d0ff;
 	text-align: left;
@@ -23,7 +23,7 @@ p.first{
 	padding: 2px 2px 2px 2px;
 }
 
-p.second{
+p.second {
 	text-shadow: 3px 3px 3px rgb(188, 0, 217);
 	background-color: #e3d0ff;
 	text-align: left;
@@ -36,7 +36,7 @@ p.second{
 	padding: 2px 2px 2px 2px;
 }
 
-p.third{
+p.third { 
 	text-shadow: 3px 3px 3px rgb(7, 0, 221);
 	background-color: #d3cdff;
 	text-align: left;
