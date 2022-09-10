@@ -12,6 +12,7 @@ h1{
 }
 
 p.first{
+	text-shadow: 3px 3px 3px rgb(188, 0, 217);
 	background-color: #e3d0ff;
 	text-align: left;
 	font-size: 30px;
@@ -20,9 +21,11 @@ p.first{
 	border-top-right-radius: 25px;
 	border-bottom-right-radius: 25px;
 	margin-right: 750px;
+	padding: 2px 2px 2px 2px;
 }
 
 p.second{
+	text-shadow: 3px 3px 3px rgb(188, 0, 217);
 	background-color: #e3d0ff;
 	text-align: left;
 	font-size: 30px;
@@ -31,9 +34,11 @@ p.second{
 	border-top-right-radius: 25px;
 	border-bottom-right-radius: 25px;
 	margin-right: 950px;
+	padding: 2px 2px 2px 2px;
 }
 
 p.third{
+	text-shadow: 3px 3px 3px rgb(7, 0, 221);
 	background-color: #d3cdff;
 	text-align: left;
 	font-size: 30px;
@@ -42,4 +47,5 @@ p.third{
 	border-top-right-radius: 25px;
 	border-bottom-right-radius: 25px;
 	margin-right: 1225px;
+	padding: 2px 2px 2px 2px;
 }
