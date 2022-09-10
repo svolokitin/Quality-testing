@@ -1,6 +1,7 @@
-/*body{
-	background-image: url(skull.gif);
-}*/
+body{
+	background-image: url(biba_boba.webp);
+	background-size: 1000px 745px;
+}
 
 h1{
 	color: rgb(1, 11, 0);
@@ -11,33 +12,33 @@ h1{
 }
 
 p.first{
-	background-color: #e6ffe9;
+	background-color: #e3d0ff;
 	text-align: left;
 	font-size: 30px;
 	color: rgb(0, 0, 0);
-	border-left: green solid 5px;
+	border-left: rgb(188, 0, 217) solid 5px;
 	border-top-right-radius: 25px;
 	border-bottom-right-radius: 25px;
 	margin-right: 750px;
 }
 
 p.second{
-	background-color: #e6ffe9;
+	background-color: #e3d0ff;
 	text-align: left;
 	font-size: 30px;
 	color: rgb(0, 0, 0);
-	border-left: green solid 5px;
+	border-left: rgb(188, 0, 217) solid 5px;
 	border-top-right-radius: 25px;
 	border-bottom-right-radius: 25px;
 	margin-right: 950px;
 }
 
 p.third{
-	background-color: #e6ffe9;
+	background-color: #d3cdff;
 	text-align: left;
 	font-size: 30px;
 	color: rgb(0, 0, 0);
-	border-left: green solid 5px;
+	border-left: rgb(7, 0, 221) solid 5px;
 	border-top-right-radius: 25px;
 	border-bottom-right-radius: 25px;
 	margin-right: 1225px;
