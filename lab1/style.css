@@ -1,14 +1,13 @@
 body{
 	background-image: url(biba_boba.webp);
 	background-size: 1000px 745px;
+	font-family: 'Courier New', Courier, monospace;
 }
 
 h1{
 	color: rgb(1, 11, 0);
 	text-align: center;
-	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	font-size: 25px;
-	
 }
 
 p.first{
@@ -20,7 +19,7 @@ p.first{
 	border-left: rgb(188, 0, 217) solid 5px;
 	border-top-right-radius: 25px;
 	border-bottom-right-radius: 25px;
-	margin-right: 750px;
+	margin-right: 475px;
 	padding: 2px 2px 2px 2px;
 }
 
@@ -33,7 +32,7 @@ p.second{
 	border-left: rgb(188, 0, 217) solid 5px;
 	border-top-right-radius: 25px;
 	border-bottom-right-radius: 25px;
-	margin-right: 950px;
+	margin-right: 750px;
 	padding: 2px 2px 2px 2px;
 }
 
@@ -46,6 +45,6 @@ p.third{
 	border-left: rgb(7, 0, 221) solid 5px;
 	border-top-right-radius: 25px;
 	border-bottom-right-radius: 25px;
-	margin-right: 1225px;
+	margin-right: 1215px;
 	padding: 2px 2px 2px 2px;
 }
