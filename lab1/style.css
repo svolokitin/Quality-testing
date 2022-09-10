@@ -10,10 +10,35 @@ h1{
 	
 }
 
-p.solid{
-	background-color: #c9ffd0;
-	text-align: center;
+p.first{
+	background-color: #e6ffe9;
+	text-align: left;
 	font-size: 30px;
 	color: rgb(0, 0, 0);
 	border-left: green solid 5px;
+	border-top-right-radius: 25px;
+	border-bottom-right-radius: 25px;
+	margin-right: 750px;
+}
+
+p.second{
+	background-color: #e6ffe9;
+	text-align: left;
+	font-size: 30px;
+	color: rgb(0, 0, 0);
+	border-left: green solid 5px;
+	border-top-right-radius: 25px;
+	border-bottom-right-radius: 25px;
+	margin-right: 950px;
+}
+
+p.third{
+	background-color: #e6ffe9;
+	text-align: left;
+	font-size: 30px;
+	color: rgb(0, 0, 0);
+	border-left: green solid 5px;
+	border-top-right-radius: 25px;
+	border-bottom-right-radius: 25px;
+	margin-right: 1225px;
 }
