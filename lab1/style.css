@@ -1,6 +1,7 @@
 body {
 	background-image: url(biba_boba.webp);
-	background-size: 1000px 745px;
+	background-attachment: fixed;
+	background-size: 1000px 755px;
 	font-family: 'Courier New', Courier, monospace;
 }
 
@@ -8,6 +9,24 @@ h1 {
 	font-family: "Sofia", sans-serif;
     font-size: 35px;
 	text-align: center;
+}
+
+p.top1 {
+	border-left: rgb(188, 0, 217) solid 5px;
+	background-color: #e3d0ff;
+	font-size: 25px;
+}
+
+p.top2 {
+	border-left: rgb(188, 0, 217) solid 5px;
+	background-color: #e3d0ff;
+	font-size: 25px;
+}
+
+p.top3 {
+	border-left: rgb(7, 0, 221) solid 5px;
+	background-color: #d3cdff;
+	font-size: 25px;
 }
 
 p.first {
