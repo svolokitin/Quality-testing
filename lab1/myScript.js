@@ -7,9 +7,13 @@ function myFunctionStyle() {
 }
 
 function myFunctionOff() {
-    document.getElementById('img').src='pic_bulboff.gif'
+    document.getElementById('img').src = 'pic_bulboff.gif'
 }
 
 function myFunctionOn() {
-    document.getElementById('img').src='pic_bulbon.gif'
+    document.getElementById('img').src = 'pic_bulbon.gif'
+}
+
+function myFunctionHide() {
+    document.getElementById('hide').style.display = 'block'
 }
