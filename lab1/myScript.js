@@ -17,3 +17,7 @@ function myFunctionOn() {
 function myFunctionHide() {
     document.getElementById('hide').style.display = 'block'
 }
+
+function myFuncGetDate() {
+    document.getElementById('date').innerHTML = Date()
+}
